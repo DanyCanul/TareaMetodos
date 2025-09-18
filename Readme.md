@@ -1,16 +1,17 @@
-# Cubo RGB
+# Tareas de Métodos Matemáticos Otoño 2025
 
-Descripción breve del proyecto.  
-Por ejemplo: Este proyecto contiene un archivo MATLAB para [descripción de lo que hace tu script].
+Este proyecto contiene las tareas de la materia. Diversos códigos realizados en diferentes lenguajes de programación.
 
 ## Contenido
 
-- `archivo.m` - Archivo principal de MATLAB.
+- `Seriedivergente.c` - Comprobación de divergencia en C.
+- `RGB.m` - Cubo RGB realizado en MATLAB.
 - `README.md` - Este archivo de documentación.
 
 ## Requisitos
 
 - MATLAB R2023a o superior.
+- Compilador para lenguaje C.
 
 ## Uso
 
